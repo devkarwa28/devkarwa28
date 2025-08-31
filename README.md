@@ -33,7 +33,18 @@ A React application to verify certificates using Certificate IDs.
 ### **2. To-Do List App**
 A simple CRUD app built in React (my first React project).  
 - Practiced **state management**, **forms**, and **component design**  
-- Learned how to handle dynamic lists and validation  
+- Learned how to handle dynamic lists and validation
+
+### **3. Jodhpuri Furniture (E-Commerce Shopping Site)**
+- Refactored components with React Hooks, reducing redundant renders by **50%**  
+- Built **Admin Panel with full CRUD functionalities**  
+- Implemented **Redux for efficient state management**  
+- Delivered a fully **responsive design** for seamless desktop and mobile experience  
+
+### **4. Disneo Homes**
+- Refactored React components using Hooks to **cut redundant renders by 50%**  
+- Implemented **lazy-loaded dynamic image gallery**, improving load performance by **45%**  
+- Ensured **mobile-first responsive design** for optimal UX  
 
 *(More projects coming soon!)*
 
