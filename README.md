@@ -60,8 +60,8 @@ A simple CRUD app built in React (my first React project).
 
 ## 📫 Connect With Me
 - **GitHub:** [github.com/devkarwa28](https://github.com/devkarwa28)  
-- **LinkedIn:** *(Add your link here)*  
-- **Email:** *(Add your email here)*  
+- **LinkedIn:** *http://www.linkedin.com/in/dev-karwa-a9b109249*  
+- **Email:** *devkarwa1973@outlook.com*  
 
 ---
 
