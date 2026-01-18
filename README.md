@@ -17,8 +17,8 @@ Welcome to my GitHub profile! I'm a passionate web developer who loves building 
 
 ## 🛠️ Tech Stack
 **Frontend:** React.js, HTML5, CSS3, SASS, Bootstrap 5, jQuery, Figma  
-**Backend:** Node.js, Express.js, RESTful APIs  
-**Database:** MongoDB  
+**Backend:** Node.js, Express.js, RESTful APIs, Redux, Context API  
+**Database:** MongoDB, MySQL
 **Tools & Others:** Git, GitHub, VS Code, Postman, NPM  
 
 ---
